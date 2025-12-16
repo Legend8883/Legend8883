@@ -26,7 +26,7 @@ A programming student on the path to becoming a **FullStack Web Developer**.
 Here are some of my projects that showcase my development journey:
 
 | Проект | Project | Описание | Description | Стек | Stack |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 🎸 **[Guitar Resale Simulator](https://github.com/Legend8883/Guitar-resale-simulator)** | | Консольная игра на чистой Java. Нужно покупать и перепродавать гитары, управляя бюджетом и наценкой, чтобы заработать как можно больше. | Console game in pure Java. The goal is to buy and resell guitars, managing your budget and markup to earn as much money as possible. | Java, Spring IoC Container |
 | 🗺️ **[Where to go in Syktyvkar](https://github.com/daniiiiiiiiiiil/Where-to-go-in-Syktyvkar)** | | Веб-приложение (учебный проект с другом). Помогает найти места для посещения в городе Сыктывкар (кафе, достопримечательности) с информацией о стоимости и маршруте. *Мой вклад: разработка backend части.* | Web application (a college project with a friend). Helps find places to visit in Syktyvkar (cafes, attractions) with cost and route info. *My contribution: backend development.* | Java, Spring Boot, JavaScript, HTML, CSS |
 
