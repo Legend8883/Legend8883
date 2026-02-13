@@ -2,8 +2,8 @@
 
 ## 👋 Привет, я Богдан | Hi, I'm Bogdan
 
-Студент-программист, стремящийся стать **FullStack веб-разработчиком**.
-A programming student on the path to becoming a **FullStack Web Developer**.
+Студент-программист, стремящийся стать **Backend веб-разработчиком**.
+A programming student on the path to becoming a **Backend Web Developer**.
 
 </div>
 
@@ -12,7 +12,6 @@ A programming student on the path to becoming a **FullStack Web Developer**.
 ### 🛠️ Технологии и цели | Tech Stack & Goals
 
 *   **🔙 Бэкенд:** Java (Core, Collections) + Spring Framework (Boot, MVC, Data JPA)
-*   **🔜 Фронтенд (в процессе изучения):** HTML, CSS, JavaScript (планирую React)
 *   **🗄️ Базы данных:** SQL (PostgreSQL)
 *   **⚙️ Инструменты:** Git, Maven, Gradle, IntelliJ IDEA
 
