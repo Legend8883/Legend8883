@@ -3,8 +3,8 @@
 ## 👋 Привет, я Богдан | Hi, I'm Bogdan
 
 **Java Spring Developer (Backend)**  
-Студент 3 курса, увлечённый созданием надёжных веб-приложений.  
-3rd-year student passionate about building robust web applications.
+Студент 4 курса, увлечённый созданием надёжных веб-приложений.  
+4rd-year student passionate about building robust web applications.
 
 </div>
 
